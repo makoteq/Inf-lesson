@@ -5,12 +5,24 @@
   <div class="row " >
     <div class="col-sm text">
       <span class="header">Sposoby Komunikacji</span>
-      <span class="section_header">chat</span><img class="icon" src="./assets/chat.png" alt=""><br>
-      <p>Blog (ang. web log – dziennik sieciowy) – rodzaj strony internetowej zawierającej odrębne, zazwyczaj uporządkowane chronologicznie wpisy. Blogi umożliwiają zazwyczaj archiwizację oraz kategoryzację i tagowanie wpisów, a także komentowanie notatek przez czytelników danego dziennika sieciowego. Ogół blogów traktowany jako medium komunikacyjne nosi nazwę blogosfery. W blogach najważniejszą funkcję komunikacyjną pełni tekst językowy, choć pojawiają się także materiały graficzne czy nagrania video[1].</p>
-      <span class="section_header">Blog</span><img class="icon" src="./assets/blog.png" alt=""><br>
-        <p>Blog (ang. web log – dziennik sieciowy) – rodzaj strony internetowej zawierającej odrębne, zazwyczaj uporządkowane chronologicznie wpisy. Blogi umożliwiają zazwyczaj archiwizację oraz kategoryzację i tagowanie wpisów, a także komentowanie notatek przez czytelników danego dziennika sieciowego. Ogół blogów traktowany jako medium komunikacyjne nosi nazwę blogosfery. W blogach najważniejszą funkcję komunikacyjną pełni tekst językowy, choć pojawiają się także materiały graficzne czy nagrania video[1].</p>
-      <span class="section_header">poczta elektroniczna</span><img class="icon" src="./assets/mess.png" alt="">
-        <p>Blog (ang. web log – dziennik sieciowy) – rodzaj strony internetowej zawierającej odrębne, zazwyczaj uporządkowane chronologicznie wpisy. Blogi umożliwiają zazwyczaj archiwizację oraz kategoryzację i tagowanie wpisów, a także komentowanie notatek przez czytelników danego dziennika sieciowego. Ogół blogów traktowany jako medium komunikacyjne nosi nazwę blogosfery. W blogach najważniejszą funkcję komunikacyjną pełni tekst językowy, choć pojawiają się także materiały graficzne czy nagrania video[1].</p>
+      <span class="section_header">E-mail </span><br>
+      <p>E-mail - usługa internetowa służąca do przesyłania listów elektronicznych, do których można dołączyć załączniki. Wymaga posiadania konta pocztowego.</p>
+      <span class="section_header">Czat</span><br>
+        <p>Czat - rodzaj rozmowy między dwoma lub wieloma użytkownikami komputerów za pośrednictwem Internetu lub innej sieci komputerowej, polegającej na naprzemiennym przesyłaniu wiadomości tekstowych.  </p>
+      <span class="section_header">Komunikator</span> 
+        <p>Komunikator - program komputerowy umożliwiający natychmiastowe przesyłanie komunikatów tekstowych, głosowych i obrazu.</p>
+      <span class="section_header">Grupa dyskusyjna </span> 
+        <p>Grupa dyskusyjna - w internecie to ogólna nazwa wszelkich form dyskusji internetowej przypominających wymianę korespondencji, a nie rozmowy w czasie rzeczywistym.</p>
+      <span class="section_header">Forum dyskusyjne </span> 
+        <p>Forum dyskusyjne - przeniesiona do struktury stron WWW forma grup dyskusyjnych, która służy do wymiany informacji i poglądów między osobami o podobnych zainteresowaniach przy użyciu przeglądarki internetowej.</p>
+      <span class="section_header">Web 2.0</span> 
+        <p>Web 2.0 - serwis internetowy, który umożliwia interakcję użytkowników polegającą na współtworzeniu zasobów serwisu. Potoczne określenie serwisów internetowych powstałych po 2001 roku, w których działaniu podstawową rolę odgrywa treść generowana przez użytkowników danego serwisu</p>
+      <span class="section_header">Blog</span> 
+        <p>Blog - rodzaj strony internetowej zawierającej odrębne, uporządkowane chronologicznie wpisy, których autorem jest właściciel bloga. Blogi umożliwiają zazwyczaj archiwizację oraz kategoryzacje i tagowanie wpisów, a także komentowanie notatek przez czytelników danego dziennika sieciowego</p>
+      <span class="section_header">FTP</span> 
+        <p>FTP - protokół transferu plików. Usługa umożliwiająca pobieranie plików (ang. download) ze specjalnych komputerów, zwanych serwerami FTP, a także umieszczanie naszych plików (ang. upload) na takich serwerach, do których mamy prawo dostępu</p>
+      <span class="section_header">Chmura</span> 
+        <p>Chmura - znana w języku angielskim jako cloud computing ,to bez wątpienia jeden z najważniejszych trendów wyznaczonych obecnie przez branżę IT. W tym modelu przechowywanie aplikacji informacji odbywa się na serwerach umieszczonych poza lokalną siecią, a nie na komputerze użytkownika.</p>
     </div>
     <div class="col-sm d-none d-lg-block ">
       <img class="big_img" src="./assets/img.png" alt="">
